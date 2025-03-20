@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
-d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+D 'scpc': Spatial Correlation Robust Inference via SCPC Use scpc With STATA 18
+D
+F scpc.ado
+F scpc.sthlp
