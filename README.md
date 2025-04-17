@@ -1,5 +1,7 @@
 # scpc
-Spatial Correlation Robust Inference via SCPC Use scpc With STATA 18
+Spatial Correlation Robust Inference via SCPC Use scpc With STATA 19
+
+https://www.youtube.com/watch?v=UET6OrUiPAI
 
 Olah Data Semarang
 
